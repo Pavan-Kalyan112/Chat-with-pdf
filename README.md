@@ -1,2 +1,2 @@
-# Chat-with-pdf
-An interactive AI-powered tool that allows users to upload and chat with PDF documents. It extracts text, summarizes content, and answers questions using natural language processing, enabling quick document understanding and exploration.
+#📄Chat with PDF using Ollama, RAG, and LangChain
+An AI-powered document chatbot that lets users upload and interact with PDF files. Built using Ollama, Retrieval-Augmented Generation (RAG), and LangChain, the system extracts content, retrieves relevant context, and generates accurate, conversational responses—enabling seamless understanding and Q&A over long documents.
